@@ -81,7 +81,7 @@ Required JSON schema:
 
 IMPORTANT: Look at the provided image AND the filename. If the filename implies a specific condition (like 'ductal' meaning Breast Cancer), use that to guide your analysis and provide the correct corresponding medical textbook data for that specific disease."""
 
-MODEL_ID = "gemini-2.5-flash"
+MODEL_ID = "gemini-3.5-flash"
 
 # ---------------------------------------------------------------------------
 # Allowed MIME types
